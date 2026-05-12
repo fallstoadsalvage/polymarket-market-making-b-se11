@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket automation-script with smart Polymarket Automation Script | stop-loss-management + trailing-stops. Featuring stop-loss-management and trailing-stops,
 
 
 
